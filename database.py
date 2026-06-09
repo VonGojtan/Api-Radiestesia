@@ -1,0 +1,1 @@
+DATABASE_URL = "postgresql+psycopg2://postgres:Ego@Virtualcsa01@db.foeqzxazamtqsqdyxsgb.supabase.co:5432/postgres"
